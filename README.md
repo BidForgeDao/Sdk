@@ -1,4 +1,5 @@
 # 🚀 BidForge
+Official CA : DyAvxFduWCoSzhNLYCnY6iGEfjPAUr7rGcSiorpwpump
 
 **Win the auction. Define the token. Earn the rewards.**
 
