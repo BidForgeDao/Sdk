@@ -1,5 +1,7 @@
 # 🚀 BidForge
 Official CA : DyAvxFduWCoSzhNLYCnY6iGEfjPAUr7rGcSiorpwpump
+Lock Dev on streamflow : https://app.streamflow.finance/contract/solana/mainnet/5Huxy5WT3Mf4E9ktssosqXWyGqnwf3rvLAsQdgy1h65F
+
 
 **Win the auction. Define the token. Earn the rewards.**
 
